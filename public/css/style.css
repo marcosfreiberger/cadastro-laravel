@@ -1,0 +1,20 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(204, 188, 188);
+}
+
+form {
+    padding: 10px;
+    margin: 10px;
+}
+
+.field {
+    margin-bottom: 10px;
+}
